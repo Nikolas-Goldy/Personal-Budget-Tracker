@@ -1,3 +1,2 @@
 # Personal-Budget-Tracker
-a simple budget tracker
-Mini Project
+Mini Project - a simple budget tracker
