@@ -438,6 +438,6 @@ class PersonalBudgetTracker {
     private void exitProgram() {
         System.out.println("Exiting the program. Goodbye!");
         scanner.close();
-        scanner.nextLine();  // Consume newline
+        scanner.nextLine();  
     }
 }
